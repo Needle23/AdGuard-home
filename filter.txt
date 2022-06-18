@@ -24,3 +24,4 @@
 ||activity.windows.com^$important
 ||www.adjust.com^$important
 ||dnkeeper.hicloud.com^$important
+||m-th.ru^$important

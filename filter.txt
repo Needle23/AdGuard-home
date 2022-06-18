@@ -13,3 +13,14 @@
 ||stat.teleport.media^$important
 ||js-agent.newrelic.com^$important
 ||ad.adriver.ru^$important
+||1072636953.verify.yandex.ru^$important
+||cdn.amplitude.com^$important
+||rebindtest.com^$important
+||u.startup.mobile.webvisor.com^$important
+||ad.wappalyzer.com^$important
+||app-measurement.com^$important
+||ksyru0-eco.fds.api.xiaomi.com^$important
+||adfstat.yandex.ru^$important
+||activity.windows.com^$important
+||www.adjust.com^$important
+||dnkeeper.hicloud.com^$important

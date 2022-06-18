@@ -8,3 +8,8 @@
 ||ru.lgtvsdp.com^$important
 ||scbh.yandex.net^$important
 ||quasar.yandex.net^$important
+||mc.yandex.ru^$important
+||informer.yandex.ru^$important
+||stat.teleport.media^$important
+||js-agent.newrelic.com^$important
+||ad.adriver.ru^$important

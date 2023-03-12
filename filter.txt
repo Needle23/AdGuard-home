@@ -147,10 +147,5 @@
 0.0.0.0 gateway.acronis.com
 127.0.0.1 license.sublimehq.com
 127.0.0.1 validation.sls.microsoft.com
-
-127.0.0.1 localhost
-
-::1 localhost #[IPv6]
-
 0.0.0.0 ipm.corel.com
 0.0.0.0 dev1.ipm.corel.public.corel.net

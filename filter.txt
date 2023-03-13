@@ -1,13 +1,7 @@
 @@||checkip.synology.com^$important
 @@||checkip.dyndns.org^$important
 @@||2ip.ua^$important
-||lgtvsdp.com^$important
-||snu.lge.com^$important
-||su.lge.com^$important
-||su-ssl.lge.com^$important
-||ru.lgtvsdp.com^$important
 ||scbh.yandex.net^$important
-||quasar.yandex.net^$important
 ||mc.yandex.ru^$important
 ||informer.yandex.ru^$important
 ||stat.teleport.media^$important

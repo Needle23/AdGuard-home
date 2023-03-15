@@ -13,6 +13,7 @@
 ||adfstat.yandex.ru^$important
 ||activity.windows.com^$important
 ||www.adjust.com^$important
+||aj1907.online^$important
 ||dnkeeper.hicloud.com^$important
 ||m-th.ru^$important
 127.0.0.1 209.34.83.73:443

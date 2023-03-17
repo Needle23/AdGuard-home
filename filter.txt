@@ -14,6 +14,8 @@
 ||activity.windows.com^$important
 ||www.adjust.com^$important
 ||aj1907.online^$important
+||c65ab52a.online^$important
+||604c7625.online^$important
 ||dnkeeper.hicloud.com^$important
 ||m-th.ru^$important
 ||trafficbass.com^$important

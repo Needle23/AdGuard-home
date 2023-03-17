@@ -1,6 +1,10 @@
-@@||checkip.synology.com^$important
-@@||checkip.dyndns.org^$important
-@@||2ip.ua^$important
+@@||checkip.synology.com^
+@@||checkip.dyndns.org^
+@@||scbh.yandex.net^
+@@||report.appmetrica.webvisor.com^
+@@||report-1.appmetrica.webvisor.com^
+@@||report.appmetrica.yandex.net^
+@@||ksyru0-eco.fds.api.xiaomi.com^
 ||stat.teleport.media^
 ||js-agent.newrelic.com^
 ||ad.adriver.ru^

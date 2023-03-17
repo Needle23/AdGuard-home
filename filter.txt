@@ -16,6 +16,7 @@
 ||aj1907.online^$important
 ||dnkeeper.hicloud.com^$important
 ||m-th.ru^$important
+||trafficbass.com^$important
 ||counter.yadro.ru^$important
 127.0.0.1 209.34.83.73:443
 127.0.0.1 209.34.83.73:43
